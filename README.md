@@ -1,7 +1,5 @@
-# Calculadora utilizando JS
+# Calculator made with HTML, CSS and JS
 
-## Projeto desenvolvido para estudo JS
+## Using
 
-### Uso da aplicação
-
-  Ao abrir o arquivo HTML irão aparecer dois pop-ups solicitando a entrada de dois números, e após isso, basta escolher o operador que deseja fazer a operação matemática.
+* After cloning the repo, just open the *index.html* file and start using the app.
