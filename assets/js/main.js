@@ -30,7 +30,7 @@ function Calculator(){ //Constructor function
     try {
       const conta = eval(this.display.value);
 
-      if(!conta) {
+      if(conta == null || conta == NaN) {
         alert('Conta inválida');
         return;
       }
